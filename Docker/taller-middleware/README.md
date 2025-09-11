@@ -11,29 +11,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Docker Compose**: Para gestionar múltiples contenedores de Docker.
 - **Un cliente de API**: Como Postman o Insomnia para probar los endpoints.
 
-## Estructura del Proyecto
-
-La estructura del proyecto es la siguiente:
-
-```
-taller-middleware
-├── src
-│   ├── config
-│   │   └── database.js       # Configuración de Sequelize
-│   ├── controllers
-│   │   └── orderController.js  # Lógica para crear pedidos
-│   ├── models
-│   │   ├── index.js          # Para definir relaciones
-│   │   ├── Product.js
-│   │   └── Order.js
-│   ├── routes
-│   │   └── orderRoutes.js
-│   └── app.js                # Configuración de Express
-├── .env                      # Variables de entorno
-├── docker-compose.yml
-├── package.json
-└── README.md
-```
 
 ## Instalación
 
@@ -71,14 +48,7 @@ Esto iniciará el servidor en `http://localhost:3000`.
 
 - **POST /api/orders**: Crea un nuevo pedido. Requiere un `productId` y `quantity` en el cuerpo de la solicitud.
 
-## Pruebas
-
-Utiliza Postman o Insomnia para probar los endpoints. Asegúrate de verificar los escenarios de éxito y fallo, especialmente en lo que respecta a la gestión de stock y transacciones.
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.

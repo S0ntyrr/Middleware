@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=4F8DF7&center=true&vCenter=true&width=560&lines=API+de+pedidos+con+control+de+stock;Middleware+con+Express%2C+Sequelize+y+PostgreSQL;Transacciones+seguras+para+procesar+órdenes" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=4F8DF7&center=true&vCenter=true&width=560&lines=API+de+pedidos+con+control+de+stock;Middleware+con+Express%2C+Sequelize+y+PostgreSQL;Transacciones+seguras+para+procesar+órdenes)](https://git.io/typing-svg)
 </p>
 
 <p align="center">

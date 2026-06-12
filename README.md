@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=4F8DF7&center=true&vCenter=true&width=560&lines=API+de+pedidos+con+control+de+stock;Middleware+con+Express%2C+Sequelize+y+PostgreSQL;Transacciones+seguras+para+procesar+órdenes)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/API-Pedidos-blue?style=for-the-badge&logo=node.js" alt="API Pedidos" />
+</p>
+
+<p align="center">
+**API de pedidos con control de stock · Express · Sequelize · PostgreSQL**
 </p>
 
 <p align="center">
